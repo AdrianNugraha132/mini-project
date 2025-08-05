@@ -36,7 +36,8 @@
 
   <div class="box">
     <h1>Halo, Aku Adrian!</h1>
-    <img src="bukit_pamoroan.jpg" alt="bukit_pamoroan">
+      ![Uploading bukit_pamoroan.jpg…]()
+
     <p>this is my photo</p>
     <p>I'm <strong>Adrian</strong>, I'm new student in a local campus. I like coding and i want to be <b>web developer</b>!</p>
     <p>i just started coding a few days ago and i like coding
