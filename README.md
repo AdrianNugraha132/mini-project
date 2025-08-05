@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Portofolio Mini</title>
+        <title>Project Mini</title>
   <style>
     body {
       font-family: Arial;
